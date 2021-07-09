@@ -15,6 +15,7 @@ bin-release/
 *.class
 *.xml
 *.txt
+*.idea
 *.json
 *.idea
 *.json
