@@ -13,11 +13,13 @@ bin-release/
 *.ipa
 *.apk
 *.class
-<<<<<<< HEAD
 *.xml
 *.txt
 *.idea
 *.json
+*.idea
+*.json
+*.iml
 
 # Project files, i.e. `.project`, `.actionScriptProperties` and `.flexProperties`
 # should NOT be excluded as they contain compiler settings and other important
