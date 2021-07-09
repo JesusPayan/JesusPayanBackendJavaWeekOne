@@ -13,8 +13,11 @@ bin-release/
 *.ipa
 *.apk
 *.class
+<<<<<<< HEAD
 *.xml
 *.txt
+=======
+>>>>>>> 9e64939627a84285b12ae044e81f5f7900292ebb
 *.json
 
 # Project files, i.e. `.project`, `.actionScriptProperties` and `.flexProperties`
