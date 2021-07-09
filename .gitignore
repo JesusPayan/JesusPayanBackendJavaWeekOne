@@ -16,8 +16,7 @@ bin-release/
 <<<<<<< HEAD
 *.xml
 *.txt
-=======
->>>>>>> 9e64939627a84285b12ae044e81f5f7900292ebb
+*.idea
 *.json
 
 # Project files, i.e. `.project`, `.actionScriptProperties` and `.flexProperties`
