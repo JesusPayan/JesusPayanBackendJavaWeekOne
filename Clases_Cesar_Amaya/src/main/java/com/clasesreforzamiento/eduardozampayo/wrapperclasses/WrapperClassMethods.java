@@ -1,4 +1,4 @@
-package com.clasesreforzamiento.cesaramaya.wrapperclasses;
+package com.clasesreforzamiento.eduardozampayo.wrapperclasses;
 
 public class WrapperClassMethods {
     public static void main(String[] args) {
