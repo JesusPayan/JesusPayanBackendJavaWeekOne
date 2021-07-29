@@ -22,13 +22,21 @@ Este repositorio contiene:
 * JavaSE POO Exercises
 * JavaSE Data Persistence Exercises
 * Sql Statements Exercises
+* Spring Platzi Project (Platzi-Market)
+* Testing 
 * Ejercicios Cesar Amaya
+    * Operadores
+        * logicos
+        * Incremento/Decremento
+        * Aritmeticos
+        * Ternario
+    * Arreglos
+    * Control de flujo
+    * 
+* Ejercios Eduardo Zampayo
+        * Boxing
+        * Wrapper Class
+         
 	
-## Exercises
-This Repository contains:
-* JavaSE Fundaments
-* JavaSE POO Exercises
-* JavaSE Data Persistence Exercises
-* Sql Statements Exercises
-* Cesar Amaya Excersices
+
 

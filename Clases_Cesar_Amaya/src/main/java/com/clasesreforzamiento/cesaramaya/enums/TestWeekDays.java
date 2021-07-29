@@ -1,7 +1,5 @@
 package com.clasesreforzamiento.cesaramaya.enums;
 
-import com.clasesreforzamiento.cesaramaya.WeekDays;
-
 import java.util.Scanner;
 
 public class TestWeekDays {
