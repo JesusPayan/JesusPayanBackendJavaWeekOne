@@ -1,4 +1,4 @@
-package com.clasesreforzamiento.cesaramaya.operadores;
+package com.clasesreforzamiento.cesaramaya.operadores.asignacion;
 
 public class ClaseOperadores {
     public static void operadorAsignacion(){

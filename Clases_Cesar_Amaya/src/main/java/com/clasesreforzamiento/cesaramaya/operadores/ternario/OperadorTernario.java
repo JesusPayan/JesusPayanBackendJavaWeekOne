@@ -1,4 +1,4 @@
-package com.clasesreforzamiento.cesaramaya.operadores;
+package com.clasesreforzamiento.cesaramaya.operadores.ternario;
 
 public class OperadorTernario {
     public static void main(String[] args) {

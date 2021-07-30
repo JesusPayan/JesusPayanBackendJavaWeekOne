@@ -1,4 +1,4 @@
-package com.clasesreforzamiento.cesaramaya.operadores;
+package com.clasesreforzamiento.cesaramaya.operadores.igualdad;
 
 public class Igualdad {
     public static void main(String[] args) {
@@ -11,9 +11,7 @@ public class Igualdad {
         if (a == 100L){
             System.out.println("100 y 100L son iguales");
         }
-        /*if(res != (b & gt;a)){
-            System.out.println("res distinto a (b>;a)");
-        }*/
+
         if (letras1 == letras2){
             System.out.println("iguales");
         }else{

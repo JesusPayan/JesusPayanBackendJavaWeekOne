@@ -1,4 +1,4 @@
-package com.clasesreforzamiento.cesaramaya.operadores;
+package com.clasesreforzamiento.cesaramaya.operadores.others;
 
 public class Bottom2 extends Top{
     public Bottom2(String s){

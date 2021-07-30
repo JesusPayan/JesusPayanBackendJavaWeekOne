@@ -1,4 +1,4 @@
-package com.clasesreforzamiento.cesaramaya.operadores;
+package com.clasesreforzamiento.cesaramaya.operadores.arirmeticos;
 
 //In the following program, explain why the value "6" is printed twice in a row:
 

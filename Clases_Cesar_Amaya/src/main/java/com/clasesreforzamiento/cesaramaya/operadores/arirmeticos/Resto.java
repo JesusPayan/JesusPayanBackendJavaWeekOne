@@ -1,4 +1,4 @@
-package com.clasesreforzamiento.cesaramaya.operadores;
+package com.clasesreforzamiento.cesaramaya.operadores.arirmeticos;
 
 public class Resto {
     public static void main(String[] args) {
